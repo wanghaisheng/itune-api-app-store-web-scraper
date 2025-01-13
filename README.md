@@ -1,5 +1,7 @@
 # 🍏🔍 App Store Web Scraper
 
+>caution:500 review per app at most 
+
 ![PyPI - Version](https://img.shields.io/pypi/v/app-store-web-scraper)
 
 `app-store-web-scraper` is a Python package for extracting reviews for iOS,
